@@ -13,6 +13,7 @@ namespace ConsoleApp2
             Console.WriteLine("Привет");
             Console.WriteLine("Hello");
             Console.WriteLine("W");
+            Console.WriteLine("R");
         }
     }
 }
