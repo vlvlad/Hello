@@ -24,6 +24,8 @@ namespace ConsoleApp2
 
             Console.WriteLine("ew");
 
+            Console.WriteLine("ewu");
+
 
         }
     }
