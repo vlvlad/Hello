@@ -18,7 +18,9 @@ namespace ConsoleApp2
             Console.WriteLine("o");
             Console.WriteLine("e");
 
-            Console.WriteLine("et");
+            Console.WriteLine("eеее");
+
+
         }
     }
 }
