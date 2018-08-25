@@ -21,6 +21,10 @@ namespace ConsoleApp2
 
             Console.WriteLine("ewwwwwwww");
 
+
+            Console.WriteLine("ew");
+
+
         }
     }
 }
