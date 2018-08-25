@@ -16,6 +16,8 @@ namespace ConsoleApp2
             Console.WriteLine("R");
             Console.WriteLine("p");
             Console.WriteLine("o");
+            Console.WriteLine("e");
+
         }
     }
 }
